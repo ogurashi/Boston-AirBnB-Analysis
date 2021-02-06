@@ -1,2 +1,6 @@
 .DS_Store
 .csv
+.ipynb_checkpoints/
+listings.csv
+calendar.csv
+reviews.csv
