@@ -31,6 +31,7 @@ listings.csv : Dataset containing each listings and some high-level statistics o
 Using the conda navigator, open the notebook.
 Ensure the 3 csv files are in the same containing folder as the notebook in order to run the analytics correctly
 Then run the notebook and view the results.
+The graphs outputted are stored in the same folder as the notebook & the dataset.
 
 
 
