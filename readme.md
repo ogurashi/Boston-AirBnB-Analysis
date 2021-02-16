@@ -12,20 +12,23 @@ We also learned that AirBnB ratings are skewed, with the vast majority (~75%) be
 
 ## Installation
 Use the package installer (pip/conda) to install the below packages
-    1.  pandas
-    2.  numpy
-    3.  datetime
-    4.  seaborn
-    5.  matplotlib
-    6.  datetime
+    1.  pandas <br />
+    2.  numpy <br />
+    3.  datetime <br />
+    4.  seaborn <br />
+    5.  matplotlib <br />
+    6.  datetime <br />
 
 
 
 ## Files
-rentals.ipynb : Jupyter notebook for the analytics
-calendar.csv : Dataset containing the dates all listings were listed 
-reviews.csv : Dataset containing all the available reviews
-listings.csv : Dataset containing each listings and some high-level statistics on it
+rentals.ipynb : Jupyter notebook for the analytics. <br />
+
+calendar.csv : Dataset containing the dates all listings were listed. <br />
+
+reviews.csv : Dataset containing all the available reviews. <br />
+
+listings.csv : Dataset containing each listings and some high-level statistics on it <br />
                 - e.g average review rating, description, etc.
 ## Usage
 Using the conda navigator, open the notebook.
