@@ -11,7 +11,7 @@ We found that the price is a marginal indicator of quality, and that the top fac
 We also learned that AirBnB ratings are skewed, with the vast majority (~75%) being over 9/10.
 
 ## Installation
-Use the package installer (pip/conda) to install the below packages
+Use the package installer (pip/conda) to install the below packages <br />
     1.  pandas <br />
     2.  numpy <br />
     3.  datetime <br />
