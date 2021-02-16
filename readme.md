@@ -10,7 +10,9 @@ The factors influencing the occupancy of an AirBnB are varied, but we've broken 
 We found that the price is a marginal indicator of quality, and that the top factor impacting occupancy is the time of year, in combination with the review rating.
 We also learned that AirBnB ratings are skewed, with the vast majority (~75%) being over 9/10.
 
-[The article is attached here](https://omargurashi1.medium.com/how-to-get-the-most-out-of-your-airbnb-listing-6da32f59b00e)
+[The medium article is linked [here](https://omargurashi1.medium.com/how-to-get-the-most-out-of-your-airbnb-listing-6da32f59b00e)
+
+https://omargurashi1.medium.com/how-to-get-the-most-out-of-your-airbnb-listing-6da32f59b00e
 
 
 
